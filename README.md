@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋🏽, I'm João Cassiano</h1>
 <div align="center">
   <img 
-    width="300" 
+    width="280" 
     align="right" 
     src="https://i.scdn.co/image/ab67616d00001e027cc4f9a1e697248775cfb37d"
   />
@@ -23,6 +23,8 @@
 </ul>
 <p>
   I’m interested in clean business rules, organized architecture and systems that scale without becoming messy.
+  <br/><br/>
+  💼 Currently seeking a Junior Back-End Developer position where I can contribute, learn fast, and grow inside a strong engineering team.
 </p>
 <h1/>
 <h3 align="left">🛠️ Languages & Technologies</h3>
