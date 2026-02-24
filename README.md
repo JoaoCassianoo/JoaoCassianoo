@@ -7,7 +7,10 @@
     src="https://i.scdn.co/image/ab67616d00001e027cc4f9a1e697248775cfb37d"
   />
 </div>
-<h3>🚀 Back-End Developer | .NET + React ⚛️</h3>
+<h3>
+  🚀 Back-End Developer | .NET and React
+  <img src="https://skillicons.dev/icons?i=react" height="22" align="center"/>
+</h3>
 <p>
   I’m 18 and focused on Back-end because I care about how systems actually work behind the interface.
   Currently building a management system evolving into a SaaS, where I handle:
