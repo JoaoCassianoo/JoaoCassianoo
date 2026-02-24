@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="22" align="center"/>
 </h3>
 <p>
-  I’m 18 and focused on Back-end because I care about how systems actually work behind the interface.
+  I’m 19 and focused on Back-end because I care about how systems actually work behind the interface.
   Currently building a management system evolving into a SaaS, where I handle:
 </p>
 <ul>
